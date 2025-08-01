@@ -54,5 +54,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Leslythomasmathew/Leslythomasmathew/output/snake.svg" alt="Snake animation" />
 
 ###
